@@ -1,5 +1,6 @@
 <?php 
 /*starting code*/
 echo "hello world";
+echo 1;
 exit;
 ?>
